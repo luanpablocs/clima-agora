@@ -35,7 +35,7 @@ const showWeatherData = async (city) => {
     );
     countryElement.setAttribute("src", apiCountryURL + data.sys.country);
     humidityElement.innerText = `${data.main.humidity}%`;
-    windElement.innerText = `${data.main.speed}km/h`;
+    windElement.innerText = `${data.wind.speed}km/h`;
 };
 
 // Eventos
