@@ -1,13 +1,14 @@
 # Clima Agora
 
-<!-- ![preview](./.github/preview.png) -->
+![preview](./.github/preview.png)
+![preview2](./.github/preview2.png)
 
 >Projeto 'Clima Agora'
 
 Projeto <b><i><u>'Clima Agora'</b></i></u> descubra o Clima/Tempo de qualquer cidade do mundo com apenas um clique. <br>
 Projeto construído seguindo as dicas do <b>Matheus Battisti - Hora de Codar</b> [YouTube](https://www.youtube.com/watch?v=VS8EBgPwsSU)
 
-<!-- [🔗 Clique aqui para acessar](https://luanpablocs.github.io/meus-links/) -->
+[🔗 Clique aqui para acessar](https://clima-tempo-agora.vercel.app/)
 
 ## 🌐 Tecnologias 
 
